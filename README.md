@@ -1,1 +1,1 @@
-# Shaastra_event_iit_madrs
+# Shaastra_event_iit_madras
