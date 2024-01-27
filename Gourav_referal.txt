@@ -1,0 +1,9 @@
+1. Gourav holds a B.Tech in Computer Science and Technology from the Indian Institute of Engineering Science and Technology, Shibpur, with a CGPA of 9.13(till 6th Semester).
+2. He completed a Software Engineering Internship at Microsoft, where he worked on a project focused on query optimization. This involved designing, implementing, and enhancing features. His experience at Microsoft provided valuable insights into software development, problem-solving, and working in a collaborative team environment.
+3. He is proficient in programming languages, including C/C++, C#, Python3, JavaScript, and Java.
+4. Gourav is well-versed in frameworks like Flask, .NET, Bootstrap, ReactJS, and NodeJS.
+5. He excels with a toolkit that includes Git, GitHub, OpenCV, TensorFlow, NLTK, Numpy, Pandas, Matplotlib, and Scikit-learn. Additionally, he is skilled in tools like Excel, PowerPoint, Canva, and Figma.
+6. His proficiency in databases like Oracle SQL and MySQL enhances his capabilities in data management and retrieval.
+7. Gourav's track record includes successfully solving over 800 problems on various coding platforms.
+8. He is well-acquainted with Linux, practices Object-Oriented Programming (OOP), and has a strong understanding of Data Structures and Algorithms (DSA).
+9. He has actively participated in a diverse range of challenges, including Flipkart Grid, Google Kickstart, Shaastra marketing events by IIT Madras (where he advanced to the 3rd round), BrainDead Machine Learning events by IIEST Shibpur, and Jumpstart by Publicis Sapient.
